@@ -1,3 +1,4 @@
 streamlit==1.52.2
 SQLAlchemy==2.0.45
+psycopg2-binary==2.9.11
 
